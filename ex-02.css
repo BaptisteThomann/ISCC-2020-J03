@@ -37,6 +37,27 @@ p li
 {
     padding: 5%;
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    flex-basis: 33%
+}
+
+.middle {
+    flex-basis: 33%;
+}
+
+.right {
+    flex-basis: 33%;
+}
+#colorgreen
+{
+    color: green;
+}
 span
 {
     color: greenyellow;

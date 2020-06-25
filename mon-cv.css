@@ -1,0 +1,25 @@
+body
+{
+    background-color: whitesmoke;
+}
+h1
+{
+    text-align: center;
+    background-color: whitesmoke;
+}
+body
+{
+    background-color: lightblue;
+
+}
+footer
+{
+    background-color: whitesmoke;
+}
+section
+{
+    border-width: 1px; 
+    border-style: solid;
+    border-color: darkblue;
+    margin: 0% 10%;
+}
